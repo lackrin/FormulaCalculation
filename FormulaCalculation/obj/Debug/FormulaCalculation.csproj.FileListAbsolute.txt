@@ -1,0 +1,13 @@
+c:\users\jharvey\documents\visual studio 2015\Projects\FormulaCalculation\FormulaCalculation\bin\Debug\FormulaCalculation.exe.config
+c:\users\jharvey\documents\visual studio 2015\Projects\FormulaCalculation\FormulaCalculation\obj\Debug\FormulaCalculation.csprojResolveAssemblyReference.cache
+c:\users\jharvey\documents\visual studio 2015\Projects\FormulaCalculation\FormulaCalculation\obj\Debug\FormulaCalculation.MainWindow.resources
+c:\users\jharvey\documents\visual studio 2015\Projects\FormulaCalculation\FormulaCalculation\obj\Debug\FormulaCalculation.Properties.Resources.resources
+c:\users\jharvey\documents\visual studio 2015\Projects\FormulaCalculation\FormulaCalculation\obj\Debug\FormulaCalculation.csproj.GenerateResource.Cache
+c:\users\jharvey\documents\visual studio 2015\Projects\FormulaCalculation\FormulaCalculation\bin\Debug\FormulaCalculation.exe
+c:\users\jharvey\documents\visual studio 2015\Projects\FormulaCalculation\FormulaCalculation\bin\Debug\FormulaCalculation.pdb
+c:\users\jharvey\documents\visual studio 2015\Projects\FormulaCalculation\FormulaCalculation\bin\Debug\Newtonsoft.Json.dll
+c:\users\jharvey\documents\visual studio 2015\Projects\FormulaCalculation\FormulaCalculation\bin\Debug\Newtonsoft.Json.xml
+c:\users\jharvey\documents\visual studio 2015\Projects\FormulaCalculation\FormulaCalculation\obj\Debug\FormulaCalculation.exe
+c:\users\jharvey\documents\visual studio 2015\Projects\FormulaCalculation\FormulaCalculation\obj\Debug\FormulaCalculation.pdb
+c:\users\jharvey\documents\visual studio 2015\Projects\FormulaCalculation\FormulaCalculation\bin\Debug\Ninject.dll
+c:\users\jharvey\documents\visual studio 2015\Projects\FormulaCalculation\FormulaCalculation\bin\Debug\Ninject.xml

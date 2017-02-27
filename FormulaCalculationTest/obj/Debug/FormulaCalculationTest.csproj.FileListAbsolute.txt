@@ -1,0 +1,17 @@
+c:\users\jharvey\documents\visual studio 2015\Projects\FormulaCalculation\FormulaCalculationTest\bin\Debug\FormulaCalculationTest.dll
+c:\users\jharvey\documents\visual studio 2015\Projects\FormulaCalculation\FormulaCalculationTest\bin\Debug\FormulaCalculationTest.pdb
+c:\users\jharvey\documents\visual studio 2015\Projects\FormulaCalculation\FormulaCalculationTest\bin\Debug\FormulaCalculation.exe
+c:\users\jharvey\documents\visual studio 2015\Projects\FormulaCalculation\FormulaCalculationTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\jharvey\documents\visual studio 2015\Projects\FormulaCalculation\FormulaCalculationTest\bin\Debug\Ninject.dll
+c:\users\jharvey\documents\visual studio 2015\Projects\FormulaCalculation\FormulaCalculationTest\bin\Debug\Newtonsoft.Json.dll
+c:\users\jharvey\documents\visual studio 2015\Projects\FormulaCalculation\FormulaCalculationTest\bin\Debug\FormulaCalculation.pdb
+c:\users\jharvey\documents\visual studio 2015\Projects\FormulaCalculation\FormulaCalculationTest\bin\Debug\Ninject.xml
+c:\users\jharvey\documents\visual studio 2015\Projects\FormulaCalculation\FormulaCalculationTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\jharvey\documents\visual studio 2015\Projects\FormulaCalculation\FormulaCalculationTest\bin\Debug\Newtonsoft.Json.xml
+c:\users\jharvey\documents\visual studio 2015\Projects\FormulaCalculation\FormulaCalculationTest\obj\Debug\FormulaCalculationTest.csprojResolveAssemblyReference.cache
+c:\users\jharvey\documents\visual studio 2015\Projects\FormulaCalculation\FormulaCalculationTest\obj\Debug\FormulaCalculationTest.dll
+c:\users\jharvey\documents\visual studio 2015\Projects\FormulaCalculation\FormulaCalculationTest\obj\Debug\FormulaCalculationTest.pdb
+c:\users\jharvey\documents\visual studio 2015\Projects\FormulaCalculation\FormulaCalculationTest\bin\Debug\Castle.Core.dll
+c:\users\jharvey\documents\visual studio 2015\Projects\FormulaCalculation\FormulaCalculationTest\bin\Debug\Moq.dll
+c:\users\jharvey\documents\visual studio 2015\Projects\FormulaCalculation\FormulaCalculationTest\bin\Debug\Castle.Core.xml
+c:\users\jharvey\documents\visual studio 2015\Projects\FormulaCalculation\FormulaCalculationTest\bin\Debug\Moq.xml
